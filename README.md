@@ -1,1 +1,1 @@
-# Primer ejercicion del curso de pyhton en git
+# Primer ejercicio del curso de pyhton en git
